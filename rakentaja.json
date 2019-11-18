@@ -1,0 +1,7 @@
+{
+  "commands": ["echo 'Hi! I am the example rakentaja template and it worked!'", "say Hello"],
+  "keys: {
+    "year":"2019"
+  },
+  "ignore": ["**/*.txt"]
+}
